@@ -1,0 +1,23 @@
+body{
+    background:conic-gradient(#a4c76a,#92c5d1,#3f7fb4,#42b16f);
+}
+#off{
+    width: 100px;
+    height: 100px;
+}
+h1{
+    background-color:conic-gradient(red,yellow,green);
+    border: 5px solid black;
+    background-color: #a4c76a;
+}
+#image{
+    border: 1px solid black;
+
+}
+#normal,#smile,#angry,#fight{
+    width: 150px;
+    height: 40px;
+    background-color:;
+    color: black;
+
+}
